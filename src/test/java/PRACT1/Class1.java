@@ -7,6 +7,7 @@ public class Class1 {
 	public void abc() {
 		
 		System.out.println("first");
+		System.out.println("Second");
 	}
 	
 	}
